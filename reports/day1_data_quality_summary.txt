@@ -1,0 +1,13 @@
+DAY 1 DATA QUALITY SUMMARY
+
+1. Fund Master contains 5 mutual fund schemes.
+
+2. All required scheme codes have corresponding NAV data.
+
+3. NAV data was successfully fetched for the required schemes.
+
+4. Missing value check was performed on the Fund Master.
+
+5. Duplicate row check was performed on the Fund Master.
+
+6. An additional HDFC NAV file is present in the raw data folder, but it is not part of the current 5-scheme Fund Master.
